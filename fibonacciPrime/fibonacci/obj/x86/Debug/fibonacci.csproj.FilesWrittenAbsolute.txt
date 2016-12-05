@@ -3,3 +3,8 @@
 /Users/abhidutta/Projects/fibonacci/fibonacci/bin/Debug/fibonacci.exe
 /Users/abhidutta/Projects/fibonacci/fibonacci/obj/x86/Debug/fibonacci.exe
 /Users/abhidutta/Projects/fibonacci/fibonacci/obj/x86/Debug/fibonacci.exe.mdb
+/Users/abhidutta/Documents/repos/XeroCode/fibonacciPrime/fibonacci/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhidutta/Documents/repos/XeroCode/fibonacciPrime/fibonacci/bin/Debug/fibonacci.exe.mdb
+/Users/abhidutta/Documents/repos/XeroCode/fibonacciPrime/fibonacci/bin/Debug/fibonacci.exe
+/Users/abhidutta/Documents/repos/XeroCode/fibonacciPrime/fibonacci/obj/x86/Debug/fibonacci.exe
+/Users/abhidutta/Documents/repos/XeroCode/fibonacciPrime/fibonacci/obj/x86/Debug/fibonacci.exe.mdb

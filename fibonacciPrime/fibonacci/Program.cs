@@ -38,7 +38,10 @@ namespace fibonacci
 				}
 	
 			}
-			System.Console.WriteLine(num);
+			if (num != 0 && num != 1)
+			{
+				System.Console.WriteLine(num);
+			}
 			return true;
 		}
 
