@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{3882FFB4-B065-48D2-8089-F2DB2DA31BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3882FFB4-B065-48D2-8089-F2DB2DA31BCA}.Debug|x86.ActiveCfg = Debug|x86
+		{3882FFB4-B065-48D2-8089-F2DB2DA31BCA}.Debug|x86.Build.0 = Debug|x86
+		{3882FFB4-B065-48D2-8089-F2DB2DA31BCA}.Release|x86.ActiveCfg = Release|x86
+		{3882FFB4-B065-48D2-8089-F2DB2DA31BCA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
