@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{D0AD1511-ADC5-4EF8-92CA-C244BE2C935D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBusinessLayer", "HelloWorldBusinessLayer\HelloWorldBusinessLayer.csproj", "{579D30B4-3463-4113-A4E2-5BFCC9B48229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldDataLayer", "HelloWorldDataLayer\HelloWorldDataLayer.csproj", "{84DB0937-962F-4CA6-88E1-AFC774C0B89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AD1511-ADC5-4EF8-92CA-C244BE2C935D}.Debug|x86.ActiveCfg = Debug|x86
+		{D0AD1511-ADC5-4EF8-92CA-C244BE2C935D}.Debug|x86.Build.0 = Debug|x86
+		{D0AD1511-ADC5-4EF8-92CA-C244BE2C935D}.Release|x86.ActiveCfg = Release|x86
+		{D0AD1511-ADC5-4EF8-92CA-C244BE2C935D}.Release|x86.Build.0 = Release|x86
+		{579D30B4-3463-4113-A4E2-5BFCC9B48229}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{579D30B4-3463-4113-A4E2-5BFCC9B48229}.Debug|x86.Build.0 = Debug|Any CPU
+		{579D30B4-3463-4113-A4E2-5BFCC9B48229}.Release|x86.ActiveCfg = Release|Any CPU
+		{579D30B4-3463-4113-A4E2-5BFCC9B48229}.Release|x86.Build.0 = Release|Any CPU
+		{84DB0937-962F-4CA6-88E1-AFC774C0B89A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{84DB0937-962F-4CA6-88E1-AFC774C0B89A}.Debug|x86.Build.0 = Debug|Any CPU
+		{84DB0937-962F-4CA6-88E1-AFC774C0B89A}.Release|x86.ActiveCfg = Release|Any CPU
+		{84DB0937-962F-4CA6-88E1-AFC774C0B89A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

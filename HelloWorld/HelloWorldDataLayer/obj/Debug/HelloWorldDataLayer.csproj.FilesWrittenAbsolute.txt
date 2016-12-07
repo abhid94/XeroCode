@@ -1,0 +1,5 @@
+/Users/abhidutta/Documents/repos/XeroCode/HelloWorld/HelloWorldDataLayer/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhidutta/Documents/repos/XeroCode/HelloWorld/HelloWorldDataLayer/bin/Debug/HelloWorldDataLayer.dll.mdb
+/Users/abhidutta/Documents/repos/XeroCode/HelloWorld/HelloWorldDataLayer/bin/Debug/HelloWorldDataLayer.dll
+/Users/abhidutta/Documents/repos/XeroCode/HelloWorld/HelloWorldDataLayer/obj/Debug/HelloWorldDataLayer.dll
+/Users/abhidutta/Documents/repos/XeroCode/HelloWorld/HelloWorldDataLayer/obj/Debug/HelloWorldDataLayer.dll.mdb
