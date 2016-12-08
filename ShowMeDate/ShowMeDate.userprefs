@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{73523AC5-D933-4B51-8692-6E91FA7D3DC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShowMeDateDataLayer/MyClass.cs">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="ShowMeDateBusiness/MyClass.cs" Line="1" Column="1" />
+      <File FileName="ShowMeDateDataLayer/MyClass.cs" Line="4" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShowMeDate PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

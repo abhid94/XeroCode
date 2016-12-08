@@ -1,0 +1,7 @@
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/bin/Debug/ShowMeDateBusiness.dll.mdb
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/bin/Debug/ShowMeDateBusiness.dll
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/obj/Debug/ShowMeDateBusiness.dll
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/obj/Debug/ShowMeDateBusiness.dll.mdb
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/bin/Debug/ShowMeDateDataLayer.dll
+/Users/abhidutta/Documents/repos/XeroCode/ShowMeDate/ShowMeDateBusiness/bin/Debug/ShowMeDateDataLayer.dll.mdb
