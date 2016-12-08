@@ -1,0 +1,9 @@
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\obj\x86\Debug\ShowMeDate.exe
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\bin\Debug\ShowMeDate.exe
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\bin\Debug\ShowMeDate.pdb
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\bin\Debug\ShowMeDateBusiness.dll
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\bin\Debug\ShowMeDateDataLayer.dll
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\bin\Debug\ShowMeDateBusiness.pdb
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\bin\Debug\ShowMeDateDataLayer.pdb
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\obj\x86\Debug\ShowMeDate.csprojResolveAssemblyReference.cache
+C:\Users\Abhi.Dutta\Documents\repos\XeroCode\ShowMeDate\obj\x86\Debug\ShowMeDate.pdb

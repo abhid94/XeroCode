@@ -9,6 +9,8 @@ namespace ShowMeDate
 			ShowMeDateBusiness.DateBusiness newBusinessDate = new ShowMeDateBusiness.DateBusiness();
 			DateTime newDate = newBusinessDate.returnDate();
 			Console.WriteLine(newDate);
+
+            Console.ReadLine();
 		}
 	}
 }
